@@ -1,7 +1,5 @@
 ### Hi there 👋
-### Erste Anpassung
-Zweite Anpassung ✨
-### Dritte Anpassung
+
 
 <!--
 **SturmAxRS/SturmAxRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
